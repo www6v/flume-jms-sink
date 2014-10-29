@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/apache-log4j-extras-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/apache-mime4j-core-0.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/apache-mime4j-dom-0.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/async-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/asynchbase-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/avro-1.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/avro-ipc-1.7.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/bcmail-jdk15-1.45.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/bcprov-jdk15-1.45.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/cdk-morphlines-avro-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/cdk-morphlines-core-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/cdk-morphlines-solr-cell-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/cdk-morphlines-solr-core-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/cdk-morphlines-tika-core-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/cdk-morphlines-tika-decompress-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/cdk-morphlines-twitter-0.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-compress-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/config-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/derby-10.8.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-avro-source-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-file-channel-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-hdfs-sink-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-irc-sink-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-jdbc-channel-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-jms-source-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-configuration-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-elasticsearch-sink-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-embedded-agent-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-hbase-sink-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-log4jappender-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-morphline-solr-sink-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-node-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-ng-sdk-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-scribe-source-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-thrift-source-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/flume-tools-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/fontbox-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/irclib-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/isoparser-1.0-RC-1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jackson-annotations-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jackson-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jackson-core-asl-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jackson-databind-2.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jackson-mapper-asl-1.9.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jempbox-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/juniversalchardet-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/libthrift-0.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-analyzers-common-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-analyzers-kuromoji-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-analyzers-phonetic-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-codecs-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-grouping-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-highlighter-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-memory-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-misc-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-queries-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-queryparser-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-spatial-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/lucene-suggest-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/metadata-extractor-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/metrics-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/mina-core-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/netcdf-4.2-min.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/netty-3.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/noggit-0.5.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/org.restlet.ext.servlet-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/org.restlet-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/pdfbox-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/poi-3.8.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/poi-ooxml-3.8.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/poi-ooxml-schemas-3.8.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/poi-scratchpad-3.8.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/rome-0.9.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/servlet-api-2.5-20110124.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/solr-cell-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/solr-core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/solr-solrj-4.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/spatial4j-0.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/tika-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/tika-parsers-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/tika-xmp-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/vorbis-java-core-0.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/vorbis-java-core-0.1-tests.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/vorbis-java-tika-0.1.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/xmpcore-5.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/openSource/flume/apache-flume-1.4.0-bin/apache-flume-1.4.0-bin/lib/zookeeper-3.3.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

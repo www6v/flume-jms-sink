@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 1.7.0_45
+Specification-Title: Flume NG JMS Sink
+Specification-Version: 1.1.0-incubating-SNAPSHOT
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: Flume NG JMS Sink
+Implementation-Version: 1.1.0-incubating-SNAPSHOT
+Implementation-Vendor-Id: org.apache.flume.flume-ng-sinks
+Implementation-Vendor: Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+
